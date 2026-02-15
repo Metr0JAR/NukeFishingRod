@@ -1,4 +1,4 @@
-[![View on Modrinth](https://modrinth.com/plugin/nukefishingrod)](
+[![Modrinth](https://img.shields.io/badge/Modrinth-NukeFishing-brightgreen)](https://modrinth.com/plugin/nukefishingrod)
 # NukeFishing 💣🎣💥
 
 Turn your fishing rod into a **one-time-use nuke launcher**! 🎉  
