@@ -1,3 +1,4 @@
+[![View on Modrinth](https://modrinth.com/plugin/nukefishingrod)](
 # NukeFishing 💣🎣💥
 
 Turn your fishing rod into a **one-time-use nuke launcher**! 🎉  
