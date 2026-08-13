@@ -33,5 +33,12 @@ Plugin by **Metro** 💥
 You can freely use the JAR file on your servers. Re-uploading or claiming as your own is **not allowed**.  
 
 ---
+## 💬 Support
+
+Found a bug or need help? [Join the Discord](https://discord.gg/ZYPbDzf7Sc) to report it.
+
+[![Discord](https://img.shields.io/discord/1322943128558243912?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/ZYPbDzf7Sc)
+
+---
 
 Have fun causing TNT chaos! 🎉🔥💣
