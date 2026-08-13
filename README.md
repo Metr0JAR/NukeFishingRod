@@ -3,7 +3,7 @@
 
 Found a bug or need help? [Join the Discord](https://discord.gg/ZYPbDzf7Sc) to report it.
 
-[![Discord](https://img.shields.io/discord/1322943128558243912?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/ZYPbDzf7Sc)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZYPbDzf7Sc)
 
 # NukeFishing 💣🎣💥
 
